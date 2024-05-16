@@ -1,0 +1,398 @@
+[
+  {
+    "user_name": "MIT OpenCourseWare",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "MIT",
+    "website": "https://ocw.mit.edu",
+    "donationLink": ""
+  },
+  {
+    "user_name": "OpenStax",
+    "email_address": "info@openstax.org",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Rice University",
+    "website": "https://openstax.org",
+    "donationLink": "https://openstax.org/give"
+  },
+  {
+    "user_name": "Khan Academy",
+    "email_address": "donate@khanacademy.org",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Independent",
+    "website": "https://www.khanacademy.org",
+    "donationLink": "https://www.khanacademy.org/donate"
+  },
+  {
+    "user_name": "Saylor Academy",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://www.saylor.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "OER Commons",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "ISKME",
+    "website": "https://www.oercommons.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "BCcampus OpenEd",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "BCcampus",
+    "website": "https://open.bccampus.ca",
+    "donationLink": "https://open.bccampus.ca/donate"
+  },
+  {
+    "user_name": "Merlot II",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "California State University System",
+    "website": "https://www.merlot.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Project Gutenberg",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Independent",
+    "website": "https://www.gutenberg.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Open Textbook Library",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "University of Minnesota",
+    "website": "https://open.umn.edu/opentextbooks",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Carnegie Mellon Open Learning Initiative",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Carnegie Mellon University",
+    "website": "https://oli.cmu.edu",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Open Yale Courses",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Yale University",
+    "website": "https://oyc.yale.edu",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Stanford Online",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Stanford University",
+    "website": "https://online.stanford.edu/courses",
+    "donationLink": ""
+  },
+  {
+    "user_name": "edX",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://www.edx.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "FutureLearn",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "The Open University",
+    "website": "https://www.futurelearn.com",
+    "donationLink": ""
+  },
+  {
+    "user_name": "JSTOR Open Content",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Independent",
+    "website": "https://www.jstor.org/open/",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Open Education Consortium",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Global Network",
+    "website": "https://www.oeconsortium.org",
+    "donationLink": "https://www.oeconsortium.org/donate/"
+  },
+  {
+    "user_name": "LibreTexts",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://libretexts.org",
+    "donationLink": "https://libretexts.org/donate"
+  },
+  {
+    "user_name": "OpenUP Hub",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "European Commission",
+    "website": "https://www.openuphub.eu",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Curriki",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://www.curriki.org",
+    "donationLink": "https://www.curriki.org/donate/"
+  },
+  {
+    "user_name": "Open Culture",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Independent",
+    "website": "http://www.openculture.com",
+    "donationLink": ""
+  },
+  {
+    "user_name": "WikiEducator",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "http://wikieducator.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "OASIS",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "SUNY",
+    "website": "https://oasis.geneseo.edu",
+    "donationLink": ""
+  },
+  {
+    "user_name": "SkillsCommons",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "California State University",
+    "website": "https://www.skillscommons.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Open Michigan",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "University of Michigan",
+    "website": "https://open.umich.edu",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Open SUNY Textbooks",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "State University of New York",
+    "website": "http://textbooks.opensuny.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Noba Project",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "http://nobaproject.com",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Lumen Learning",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://lumenlearning.com",
+    "donationLink": "https://lumenlearning.com/support"
+  },
+  {
+    "user_name": "Connections Academy",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Pearson",
+    "website": "https://www.connectionsacademy.com",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Boundless",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Independent",
+    "website": "https://www.boundless.com",
+    "donationLink": ""
+  },
+  {
+    "user_name": "OpenLearn",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "The Open University",
+    "website": "https://www.open.edu/openlearn/",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Flat World Knowledge",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "http://www.flatworldknowledge.com",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Galileo Open Learning Materials",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "University System of Georgia",
+    "website": "http://oer.galileo.usg.edu",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Digital Public Library of America",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Independent",
+    "website": "https://dp.la",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Teaching Commons",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://teachingcommons.us",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Internet Archive",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Independent",
+    "website": "https://archive.org",
+    "donationLink": "https://archive.org/donate"
+  },
+  {
+    "user_name": "Open Book Publishers",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://www.openbookpublishers.com",
+    "donationLink": "https://www.openbookpublishers.com/section/29/1/support-us"
+  },
+  {
+    "user_name": "Core Knowledge",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://www.coreknowledge.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Open Learning Initiative at Stanford",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Stanford University",
+    "website": "https://oli.stanford.edu",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Open Oregon Educational Resources",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "State of Oregon",
+    "website": "https://openoregon.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Public Library of Science",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://www.plos.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "SPARC Open Education",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://sparcopen.org/our-work/open-education/",
+    "donationLink": ""
+  },
+  {
+    "user_name": "HippoCampus",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "https://www.hippocampus.org",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Open Textbooks for Hong Kong",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "http://www.opentextbooks.org.hk",
+    "donationLink": ""
+  },
+  {
+    "user_name": "Open Educational Resources Africa",
+    "email_address": "",
+    "is_institution": true,
+    "profile_picture": "",
+    "affiliation": "Non-profit",
+    "website": "",
+    "donationLink": ""
+  }
+]
